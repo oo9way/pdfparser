@@ -70,8 +70,3 @@ class DataParser:
     def parse_all_data(self) -> dict:
         return self.parse_data(), self.parse_universities()
     
-        
-data = DataParser("mpdf.pdf")
-data.parse_all_data()
-
-print(data.parsed_data)
