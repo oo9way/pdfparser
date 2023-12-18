@@ -38,12 +38,16 @@ print(data.parse_data)  # Print only details
 print(data.parse_universities) # Prints univerties and faculties
 ```
 
+
 ## Screenshots
-All data
+**All data**
+
 ![App Screenshot](https://raw.githubusercontent.com/muhammadusufs/pdfparser/main/media/get_all_data.png)
 
-Just universities
+
+**Just universities**
+
 ![App Screenshot](https://raw.githubusercontent.com/muhammadusufs/pdfparser/main/media/universities.png)
 
-Just details
+**Just details**
 ![App Screenshot](https://raw.githubusercontent.com/muhammadusufs/pdfparser/main/media/get_data.png)
