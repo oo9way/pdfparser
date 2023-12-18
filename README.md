@@ -52,4 +52,5 @@ print(data.parse_universities) # Prints univerties and faculties
 
 
 **Just details**
+
 ![App Screenshot](https://raw.githubusercontent.com/muhammadusufs/pdfparser/main/media/get_data.png)
