@@ -32,7 +32,7 @@ class DataParser:
         ]
 
         
-    def parse_data(self) -> dict:
+    def parse_details(self) -> dict:
         text = self.data
         data_path = self.data_path
         parsed_data = {}
@@ -68,5 +68,5 @@ class DataParser:
     
     
     def parse_all_data(self) -> dict:
-        return self.parse_data(), self.parse_universities()
+        return self.parse_details(), self.parse_universities()
     
